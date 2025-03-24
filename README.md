@@ -1,0 +1,1 @@
+The goal of this analysis is to understand factors affecting delivery performance in an e-commerce business. By exploring delivery patterns, delays, and potential inefficiencies, we can identify trends and suggest improvements to enhance customer satisfaction.
